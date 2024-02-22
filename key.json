@@ -1,5 +1,5 @@
 {
-    "playable_sdk_toolkit": { "newborntown": ["1.5.9", "1.6.0"] },
+    "playable_sdk_toolkit": { "newborntown": ["1.5.9", "1.6.0", "1.6.1"] },
     "tiny_image": { "rudy": ["1.4.0"] },
     "lottie2html": { "newborntown": ["1.0.0", "1.1.0"] }
 }
