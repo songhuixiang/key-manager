@@ -2,5 +2,5 @@
     "lottie2html": { "newborntown": ["1.1.0", "1.1.1"] },
     "tiny_image": { "rudy": ["1.4.0"] },
     "playable_sdk_toolkit": { "newborntown": ["1.6.2", "1.6.3", "1.6.4"] },
-    "bingo": { "newborntown": ["1.2.0", "1.2.1", "1.2.2"] }
+    "bingo": { "newborntown": ["1.2.0", "1.2.1", "1.2.2"], "cocos_store": ["1.2.0"] }
 }
